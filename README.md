@@ -1,5 +1,5 @@
 # StudyTrack
-Timer to manage student study time
+Timer to manage student study time.
 This app has a sprint game mode which gives the user 15 minutes of break for every 30 minutes of study.
 This app has a procrastinator mode which gives the user an hour interval of work for a 30 minute break.
 This app has an expert mode which gives the user an hour and a half interval of work for a 30 minute break.
